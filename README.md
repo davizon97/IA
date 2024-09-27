@@ -1,2 +1,2 @@
 # IA
-This respository contains multiple projects related to machine learning and deep learning
+This respository contains multiple projects related to Machine Learning and Deep Learning
